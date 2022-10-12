@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd273b44.css",
-    "main.js": "/static/js/main.ac382e45.js",
-    "static/js/787.8256fe00.chunk.js": "/static/js/787.8256fe00.chunk.js",
-    "index.html": "/index.html",
-    "main.cd273b44.css.map": "/static/css/main.cd273b44.css.map",
-    "main.ac382e45.js.map": "/static/js/main.ac382e45.js.map",
-    "787.8256fe00.chunk.js.map": "/static/js/787.8256fe00.chunk.js.map"
+    "main.css": "/DesafioReactJS/static/css/main.cd273b44.css",
+    "main.js": "/DesafioReactJS/static/js/main.db497bbb.js",
+    "static/js/787.8256fe00.chunk.js": "/DesafioReactJS/static/js/787.8256fe00.chunk.js",
+    "index.html": "/DesafioReactJS/index.html",
+    "main.cd273b44.css.map": "/DesafioReactJS/static/css/main.cd273b44.css.map",
+    "main.db497bbb.js.map": "/DesafioReactJS/static/js/main.db497bbb.js.map",
+    "787.8256fe00.chunk.js.map": "/DesafioReactJS/static/js/787.8256fe00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd273b44.css",
-    "static/js/main.ac382e45.js"
+    "static/js/main.db497bbb.js"
   ]
 }
